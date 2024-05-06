@@ -22,6 +22,7 @@ policies:
           - test
           - docs
           - no_type
+          - build
         scopes:
           - release
           - deps
